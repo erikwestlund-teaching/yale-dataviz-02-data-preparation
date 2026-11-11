@@ -1,4 +1,4 @@
-# AI-Augmented Analytics for Data Visualization: Module 2: Data Preparation
+# AI-Augmented Analytics for Data Visualization: Module 4: Data Preparation
 
 Prompts are on the course page.
 
