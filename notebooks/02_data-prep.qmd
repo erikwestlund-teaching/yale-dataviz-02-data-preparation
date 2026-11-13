@@ -1,0 +1,23 @@
+---
+title: "Data Preparation"
+---
+
+## Task
+
+Inspect, filter, recode, and summarize the NHANES file, then make the same bar chart two ways. The steps are in the module guide.
+
+```{r}
+#| message: false
+library(readr)
+library(dplyr)
+library(tidyr)
+library(forcats)
+library(ggplot2)
+library(knitr)
+```
+
+## Analysis
+
+```{r}
+
+```
